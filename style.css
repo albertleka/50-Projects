@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    margin-top: 96px;
+    margin-top: 48px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -33,6 +33,7 @@ body{
 .days{
     width: 640px;
     margin-top: 64px;
+    margin-bottom: 48px;
 }
 
 .day{
